@@ -23,6 +23,3 @@ Thumbs.db
 *.log
 npm-debug.log*
 
-# Bun
-bun.lock
-bun.lockb
